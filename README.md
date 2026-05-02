@@ -43,3 +43,13 @@ models/
 
 ## 🎯 Outcome
 Users can input student details and get predicted performance instantly.
+
+
+
+## 🎥 Demo Video
+(Add your video link here)
+
+
+
+## 🔗 GitHub Repository
+
