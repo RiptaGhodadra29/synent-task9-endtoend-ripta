@@ -52,4 +52,4 @@ Users can input student details and get predicted performance instantly.
 
 
 ## 🔗 GitHub Repository
-
+https://github.com/RiptaGhodadra29/synent-task9-endtoend-ripta.git
