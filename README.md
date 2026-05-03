@@ -47,7 +47,7 @@ Users can input student details and get predicted performance instantly.
 
 
 ## 🎥 Demo Video
-(Add your video link here)
+https://drive.google.com/file/d/1Y0MBFeHTNWgTHF8QOkb8wmd5PBgyfzZN/view?usp=drive_link
 
 
 
